@@ -1,7 +1,7 @@
 const carrito = []
 const productos = [
-    {id:1, nombre:"Hamburguesa Italiana", imagen:"/img/hamitaliana.png", descripcion:"Contundente hamburguesa con palta, tomate y mayo", precio:3500},
-    {id:2, nombre:"Barros Luco", imagen:"/img/luco.png", descripcion:"Pan con carne posta paleta y queso manteocoso ", precio:3200},
+    {id:1, nombre:"Hamburguesa Italiana", imagen:"img/hamitaliana.png", descripcion:"Contundente hamburguesa con palta, tomate y mayo", precio:3500},
+    {id:2, nombre:"Barros Luco", imagen:"./img/luco.png", descripcion:"Pan con carne posta paleta y queso manteocoso ", precio:3200},
     {id:3, nombre:"Hamburguesa Tocino y Queso", imagen:"/img/tocinoyqueso.jpg", descripcion:"Rica hamburguesa con tocino, queso, lechuga y tomate", precio:3800},
     {id:4, nombre:"Completo Italiano", imagen:"/img/compita.png", descripcion:"Delicioso completo con palta, tomate y mayo", precio:2000},
     {id:5, nombre:"As queso", imagen:"/img/asqueso.webp", descripcion:"Pan de completo con carne y queso", precio:2500},
