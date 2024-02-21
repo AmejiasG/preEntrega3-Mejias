@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.colorFont{
+
+    color: #b79a00;
+}
+
+.colorFontCarrito{
+
+    color: #756203;
+    font-size: 22px;
+
+}
+.Nav{
+    width: 66%;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(241, 227, 169);
+    border-radius: 20px;
+
+}
+
+.colorFontNav{
+
+    color: #705e02;
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 800;
+}
+
+body{
+    background-color: white;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cajaDiv {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin: 5px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: beige;
+
+}
+
+.imagen{
+    border-radius: 40px;
+    width: 50%;
+}
