@@ -1,6 +1,5 @@
 function renderProducto() {
     const producto = obtenerProductoLS();
-    console.log(producto);
     
     let contenido = `<div class="col-md-12 text-center">
         <img src="${producto.imagen}" alt="${producto.nombre}" class="imagen">
