@@ -141,7 +141,17 @@ function notificacionListo() {
     Swal.fire({
         icon: "success",
         title: "Listo!",
-        text: "Se ha añadido al carrito!",
+        text: "Se añadió al carrito!",
+      });
+
+}
+
+function notificacionPagar() {
+
+    Swal.fire({
+        icon: "success",
+        title: "Has pagado: $" + sumaProductos(),
+        text: "Tu pedido está siendo procesado!",
       });
 
 }
@@ -156,6 +166,12 @@ function notificacionBorrar() {
 
 }
 
-
+const cargarSpinner = () => {
+    document.getElementById("producto").innerHTML = `<div class="col-md-12 text-center my-5">
+    <div class="spinner-border text-warning" role="status">
+    <span class="visually-hidden">Loading...</span>
+    </div>
+    </div>`;
+}
 
 renderTotalCarrito();

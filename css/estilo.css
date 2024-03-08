@@ -55,5 +55,11 @@ body{
 
 .imagen{
     border-radius: 40px;
-    width: 50%;
+    transition: 0.5s;
+
+}
+
+.imagen:hover{
+
+    transform: scale(1.1);
 }
