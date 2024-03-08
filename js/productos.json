@@ -1,0 +1,15 @@
+[
+    {"id":1, "nombre":"Hamburguesa Italiana", "imagen":"/img/hamitaliana.png", "descripcion":"Contundente hamburguesa con palta, tomate y mayo", "precio":3500},
+    {"id":2, "nombre":"Barros Luco", "imagen":"/img/luco.png", "descripcion":"Pan con carne posta paleta y queso manteocoso ", "precio":3200},
+    {"id":3, "nombre":"Hamburguesa Tocino y Queso", "imagen":"/img/tocinoyqueso.jpg", "descripcion":"Rica hamburguesa con tocino, queso, lechuga y tomate", "precio":3800},
+    {"id":4, "nombre":"Completo Italiano", "imagen":"/img/compita.png", "descripcion":"Delicioso completo con palta, tomate y mayo", "precio":2000},
+    {"id":5, "nombre":"As queso", "imagen":"/img/asqueso.webp", "descripcion":"Pan de completo con carne y queso", "precio":2500},
+    {"id":6, "nombre":"As Italiano", "imagen":"/img/asitaliano.jpg", "descripcion":"Pan de completo con palta, tomate y mayo", "precio":2800},
+    {"id":7, "nombre":"Pizza Napolitana", "imagen":"/img/pizzanap.jpg", "descripcion":"Rica pizza con salsa de tomate, queso y oregano", "precio":4200},
+    {"id":8, "nombre":"Pizza Pepperoni", "imagen":"/img/pizzapep.avif", "descripcion":"Rica pizza con salsa de tomate y pepperoni", "precio":4000},
+    {"id":9, "nombre":"Jugo de Durazno", "imagen":"/img/jugo.avif", "descripcion":"Juguito helado de durazno", "precio":1400},
+    {"id":10, "nombre":"Lata Sprite", "imagen":"/img/latasprite.jpg", "descripcion":"Helada lata de bebida Sprite", "precio":1200},
+    {"id":11, "nombre":"Lata Coca-Cola", "imagen":"/img/latacocacola.jpg", "descripcion":"Helada lata de bebida Coca-Cola", "precio":1200},
+    {"id":12, "nombre":"Lata Fanta", "imagen":"/img/latafanta.jpg", "descripcion":"Helada lata de bebida Fanta", "precio":1200}
+
+]
